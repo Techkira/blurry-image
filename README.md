@@ -1,2 +1,2 @@
-# blurry-image
+first-image
 just an image
